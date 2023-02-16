@@ -1,0 +1,501 @@
+"Country","Country Code","Year","Rate"
+"Afghanistan","AF","1990",74.3
+"Bangladesh","BD","1990",64.2
+"Bhutan","BT","1990",42.1
+"China","CN","1990",29.6
+"Cameroon","CM","1990",40.2
+"India","IN","1990",57.4
+"Kenya","KE","1990",27.6
+"Cambodia","KH","1990",40.1
+"Kuwait","KW","1990",10.4
+"Lebanon","LB","1990",20.5
+"Libya","LY","1990",20.9
+"Madagascar","MG","1990",39
+"Namibia","NA","1990",27.8
+"Nigeria","NG","1990",49.7
+"Nepal","NP","1990",58.4
+"Pakistan","PK","1990",64.1
+"Papua New Guinea","PG","1990",33.6
+"Syrian Arab Republic","SY","1990",16.2
+"Uganda","UG","1990",38.8
+"Zimbabwe","ZW","1990",24.6
+"Afghanistan","AF","1991",72.9
+"Bangladesh","BD","1991",62.1
+"Bhutan","BT","1991",41.1
+"China","CN","1991",29.5
+"Cameroon","CM","1991",40
+"India","IN","1991",56.1
+"Kenya","KE","1991",27.5
+"Cambodia","KH","1991",39.7
+"Kuwait","KW","1991",9.9
+"Lebanon","LB","1991",19.5
+"Libya","LY","1991",20.4
+"Madagascar","MG","1991",38.3
+"Namibia","NA","1991",27.3
+"Nigeria","NG","1991",49.7
+"Nepal","NP","1991",56.3
+"Pakistan","PK","1991",63.9
+"Papua New Guinea","PG","1991",33.6
+"Syrian Arab Republic","SY","1991",15.8
+"Uganda","UG","1991",37.7
+"Zimbabwe","ZW","1991",24.4
+"Afghanistan","AF","1992",71.4
+"Bangladesh","BD","1992",59.8
+"Bhutan","BT","1992",40.1
+"China","CN","1992",29.1
+"Cameroon","CM","1992",39.9
+"India","IN","1992",54.9
+"Kenya","KE","1992",27.5
+"Cambodia","KH","1992",39.4
+"Kuwait","KW","1992",9.3
+"Lebanon","LB","1992",18.5
+"Libya","LY","1992",19.8
+"Madagascar","MG","1992",37.7
+"Namibia","NA","1992",26.7
+"Nigeria","NG","1992",49.8
+"Nepal","NP","1992",54.3
+"Pakistan","PK","1992",63.7
+"Papua New Guinea","PG","1992",33.6
+"Syrian Arab Republic","SY","1992",15.4
+"Uganda","UG","1992",36.6
+"Zimbabwe","ZW","1992",24.4
+"Afghanistan","AF","1993",69.9
+"Bangladesh","BD","1993",57.5
+"Bhutan","BT","1993",39
+"China","CN","1993",28.5
+"Cameroon","CM","1993",39.7
+"India","IN","1993",53.8
+"Kenya","KE","1993",27.5
+"Cambodia","KH","1993",39.2
+"Kuwait","KW","1993",8.9
+"Lebanon","LB","1993",17.4
+"Libya","LY","1993",19.2
+"Madagascar","MG","1993",37
+"Namibia","NA","1993",26.2
+"Nigeria","NG","1993",49.8
+"Nepal","NP","1993",52.3
+"Pakistan","PK","1993",63.2
+"Papua New Guinea","PG","1993",33.5
+"Syrian Arab Republic","SY","1993",15
+"Uganda","UG","1993",35.8
+"Zimbabwe","ZW","1993",24.7
+"Afghanistan","AF","1994",68.4
+"Bangladesh","BD","1994",55.2
+"Bhutan","BT","1994",38
+"China","CN","1994",27.6
+"Cameroon","CM","1994",39.4
+"India","IN","1994",52.6
+"Kenya","KE","1994",27.7
+"Cambodia","KH","1994",39
+"Kuwait","KW","1994",8.4
+"Lebanon","LB","1994",16.4
+"Libya","LY","1994",18.6
+"Madagascar","MG","1994",36.3
+"Namibia","NA","1994",25.6
+"Nigeria","NG","1994",49.8
+"Nepal","NP","1994",50.5
+"Pakistan","PK","1994",62.6
+"Papua New Guinea","PG","1994",33.3
+"Syrian Arab Republic","SY","1994",14.7
+"Uganda","UG","1994",35.2
+"Zimbabwe","ZW","1994",25.3
+"Afghanistan","AF","1995",67
+"Bangladesh","BD","1995",52.9
+"Bhutan","BT","1995",36.9
+"China","CN","1995",26.6
+"Cameroon","CM","1995",39.1
+"India","IN","1995",51.5
+"Kenya","KE","1995",27.9
+"Cambodia","KH","1995",38.9
+"Kuwait","KW","1995",8
+"Lebanon","LB","1995",15.4
+"Libya","LY","1995",18.1
+"Madagascar","MG","1995",35.5
+"Namibia","NA","1995",25
+"Nigeria","NG","1995",49.6
+"Nepal","NP","1995",48.6
+"Pakistan","PK","1995",61.9
+"Papua New Guinea","PG","1995",33
+"Syrian Arab Republic","SY","1995",14.4
+"Uganda","UG","1995",34.8
+"Zimbabwe","ZW","1995",25.8
+"Afghanistan","AF","1996",65.7
+"Bangladesh","BD","1996",50.7
+"Bhutan","BT","1996",35.8
+"China","CN","1996",25.5
+"Cameroon","CM","1996",38.6
+"India","IN","1996",50.3
+"Kenya","KE","1996",28.2
+"Cambodia","KH","1996",38.6
+"Kuwait","KW","1996",7.6
+"Lebanon","LB","1996",14.6
+"Libya","LY","1996",17.6
+"Madagascar","MG","1996",34.6
+"Namibia","NA","1996",24.5
+"Nigeria","NG","1996",49.3
+"Nepal","NP","1996",46.8
+"Pakistan","PK","1996",61.1
+"Papua New Guinea","PG","1996",32.7
+"Syrian Arab Republic","SY","1996",13.9
+"Uganda","UG","1996",34.4
+"Zimbabwe","ZW","1996",26.3
+"Afghanistan","AF","1997",64.3
+"Bangladesh","BD","1997",48.5
+"Bhutan","BT","1997",34.8
+"China","CN","1997",24.4
+"Cameroon","CM","1997",38
+"India","IN","1997",49
+"Kenya","KE","1997",28.4
+"Cambodia","KH","1997",38.2
+"Kuwait","KW","1997",7.3
+"Lebanon","LB","1997",13.8
+"Libya","LY","1997",17.2
+"Madagascar","MG","1997",33.7
+"Namibia","NA","1997",24
+"Nigeria","NG","1997",48.8
+"Nepal","NP","1997",45.1
+"Pakistan","PK","1997",60.1
+"Papua New Guinea","PG","1997",32.3
+"Syrian Arab Republic","SY","1997",13.4
+"Uganda","UG","1997",34.1
+"Zimbabwe","ZW","1997",26.5
+"Afghanistan","AF","1998",63.1
+"Bangladesh","BD","1998",46.5
+"Bhutan","BT","1998",33.7
+"China","CN","1998",23.2
+"Cameroon","CM","1998",37.2
+"India","IN","1998",47.7
+"Kenya","KE","1998",28.5
+"Cambodia","KH","1998",37.6
+"Kuwait","KW","1998",7
+"Lebanon","LB","1998",13
+"Libya","LY","1998",16.8
+"Madagascar","MG","1998",32.8
+"Namibia","NA","1998",23.6
+"Nigeria","NG","1998",48.1
+"Nepal","NP","1998",43.5
+"Pakistan","PK","1998",59.1
+"Papua New Guinea","PG","1998",31.8
+"Syrian Arab Republic","SY","1998",13
+"Uganda","UG","1998",33.5
+"Zimbabwe","ZW","1998",26.5
+"Afghanistan","AF","1999",61.9
+"Bangladesh","BD","1999",44.6
+"Bhutan","BT","1999",32.7
+"China","CN","1999",22.1
+"Cameroon","CM","1999",36.2
+"India","IN","1999",46.4
+"Kenya","KE","1999",28.6
+"Cambodia","KH","1999",36.7
+"Kuwait","KW","1999",6.8
+"Lebanon","LB","1999",12.3
+"Libya","LY","1999",16.4
+"Madagascar","MG","1999",31.8
+"Namibia","NA","1999",23.1
+"Nigeria","NG","1999",47.3
+"Nepal","NP","1999",41.9
+"Pakistan","PK","1999",58
+"Papua New Guinea","PG","1999",31.3
+"Syrian Arab Republic","SY","1999",12.6
+"Uganda","UG","1999",32.9
+"Zimbabwe","ZW","1999",26.3
+"Afghanistan","AF","2000",60.6
+"Bangladesh","BD","2000",42.8
+"Bhutan","BT","2000",31.7
+"China","CN","2000",21
+"Cameroon","CM","2000",35.2
+"India","IN","2000",45
+"Kenya","KE","2000",28.5
+"Cambodia","KH","2000",35.3
+"Kuwait","KW","2000",6.5
+"Lebanon","LB","2000",11.7
+"Libya","LY","2000",15.9
+"Madagascar","MG","2000",30.9
+"Namibia","NA","2000",22.6
+"Nigeria","NG","2000",46.3
+"Nepal","NP","2000",40.4
+"Pakistan","PK","2000",56.9
+"Papua New Guinea","PG","2000",30.7
+"Syrian Arab Republic","SY","2000",12.2
+"Uganda","UG","2000",32.1
+"Zimbabwe","ZW","2000",26.4
+"Afghanistan","AF","2001",59.4
+"Bangladesh","BD","2001",41.1
+"Bhutan","BT","2001",30.7
+"China","CN","2001",19.8
+"Cameroon","CM","2001",34.3
+"India","IN","2001",43.6
+"Kenya","KE","2001",28.4
+"Cambodia","KH","2001",33.4
+"Kuwait","KW","2001",6.4
+"Lebanon","LB","2001",11
+"Libya","LY","2001",15.4
+"Madagascar","MG","2001",30
+"Namibia","NA","2001",22.1
+"Nigeria","NG","2001",45.2
+"Nepal","NP","2001",38.9
+"Pakistan","PK","2001",55.9
+"Papua New Guinea","PG","2001",30.1
+"Syrian Arab Republic","SY","2001",11.9
+"Uganda","UG","2001",31.1
+"Zimbabwe","ZW","2001",27
+"Afghanistan","AF","2002",58.2
+"Bangladesh","BD","2002",39.5
+"Bhutan","BT","2002",29.7
+"China","CN","2002",18.6
+"Cameroon","CM","2002",33.7
+"India","IN","2002",42.2
+"Kenya","KE","2002",28.1
+"Cambodia","KH","2002",31.5
+"Kuwait","KW","2002",6.2
+"Lebanon","LB","2002",10.3
+"Libya","LY","2002",14.9
+"Madagascar","MG","2002",29.2
+"Namibia","NA","2002",21.6
+"Nigeria","NG","2002",44
+"Nepal","NP","2002",37.4
+"Pakistan","PK","2002",54.9
+"Papua New Guinea","PG","2002",29.6
+"Syrian Arab Republic","SY","2002",11.5
+"Uganda","UG","2002",30.3
+"Zimbabwe","ZW","2002",27.9
+"Afghanistan","AF","2003",56.9
+"Bangladesh","BD","2003",38
+"Bhutan","BT","2003",28.7
+"China","CN","2003",17.2
+"Cameroon","CM","2003",33.3
+"India","IN","2003",40.8
+"Kenya","KE","2003",27.9
+"Cambodia","KH","2003",29.7
+"Kuwait","KW","2003",6.1
+"Lebanon","LB","2003",9.6
+"Libya","LY","2003",14.4
+"Madagascar","MG","2003",28.5
+"Namibia","NA","2003",21.1
+"Nigeria","NG","2003",42.8
+"Nepal","NP","2003",36
+"Pakistan","PK","2003",54.1
+"Papua New Guinea","PG","2003",29
+"Syrian Arab Republic","SY","2003",11.3
+"Uganda","UG","2003",29.4
+"Zimbabwe","ZW","2003",29
+"Afghanistan","AF","2004",55.6
+"Bangladesh","BD","2004",36.5
+"Bhutan","BT","2004",27.7
+"China","CN","2004",15.5
+"Cameroon","CM","2004",33
+"India","IN","2004",39.4
+"Kenya","KE","2004",27.5
+"Cambodia","KH","2004",28.1
+"Kuwait","KW","2004",5.9
+"Lebanon","LB","2004",9
+"Libya","LY","2004",13.8
+"Madagascar","MG","2004",27.8
+"Namibia","NA","2004",20.7
+"Nigeria","NG","2004",41.7
+"Nepal","NP","2004",34.6
+"Pakistan","PK","2004",53.3
+"Papua New Guinea","PG","2004",28.6
+"Syrian Arab Republic","SY","2004",11
+"Uganda","UG","2004",28.6
+"Zimbabwe","ZW","2004",29.9
+"Afghanistan","AF","2005",54.3
+"Bangladesh","BD","2005",35.1
+"Bhutan","BT","2005",26.8
+"China","CN","2005",14
+"Cameroon","CM","2005",32.8
+"India","IN","2005",38.1
+"Kenya","KE","2005",27.1
+"Cambodia","KH","2005",26.8
+"Kuwait","KW","2005",5.8
+"Lebanon","LB","2005",8.3
+"Libya","LY","2005",13
+"Madagascar","MG","2005",27.1
+"Namibia","NA","2005",20.3
+"Nigeria","NG","2005",40.7
+"Nepal","NP","2005",33.3
+"Pakistan","PK","2005",52.7
+"Papua New Guinea","PG","2005",28.2
+"Syrian Arab Republic","SY","2005",10.8
+"Uganda","UG","2005",27.9
+"Zimbabwe","ZW","2005",30.7
+"Afghanistan","AF","2006",52.9
+"Bangladesh","BD","2006",33.7
+"Bhutan","BT","2006",25.8
+"China","CN","2006",12.6
+"Cameroon","CM","2006",32.5
+"India","IN","2006",36.9
+"Kenya","KE","2006",26.5
+"Cambodia","KH","2006",25.6
+"Kuwait","KW","2006",5.8
+"Lebanon","LB","2006",7.7
+"Libya","LY","2006",12.2
+"Madagascar","MG","2006",26.4
+"Namibia","NA","2006",20
+"Nigeria","NG","2006",39.9
+"Nepal","NP","2006",32
+"Pakistan","PK","2006",52.1
+"Papua New Guinea","PG","2006",27.9
+"Syrian Arab Republic","SY","2006",10.6
+"Uganda","UG","2006",27.4
+"Zimbabwe","ZW","2006",31.5
+"Afghanistan","AF","2007",51.5
+"Bangladesh","BD","2007",32.4
+"Bhutan","BT","2007",24.9
+"China","CN","2007",11.3
+"Cameroon","CM","2007",32.2
+"India","IN","2007",35.6
+"Kenya","KE","2007",26
+"Cambodia","KH","2007",24.5
+"Kuwait","KW","2007",5.7
+"Lebanon","LB","2007",7.1
+"Libya","LY","2007",11.4
+"Madagascar","MG","2007",25.8
+"Namibia","NA","2007",19.8
+"Nigeria","NG","2007",39.2
+"Nepal","NP","2007",30.8
+"Pakistan","PK","2007",51.5
+"Papua New Guinea","PG","2007",27.5
+"Syrian Arab Republic","SY","2007",10.4
+"Uganda","UG","2007",26.8
+"Zimbabwe","ZW","2007",32.1
+"Afghanistan","AF","2008",50.1
+"Bangladesh","BD","2008",31
+"Bhutan","BT","2008",24
+"China","CN","2008",10.2
+"Cameroon","CM","2008",31.9
+"India","IN","2008",34.4
+"Kenya","KE","2008",25.5
+"Cambodia","KH","2008",23.4
+"Kuwait","KW","2008",5.7
+"Lebanon","LB","2008",6.7
+"Libya","LY","2008",10.6
+"Madagascar","MG","2008",25.2
+"Namibia","NA","2008",19.7
+"Nigeria","NG","2008",38.6
+"Nepal","NP","2008",29.6
+"Pakistan","PK","2008",51
+"Papua New Guinea","PG","2008",27.1
+"Syrian Arab Republic","SY","2008",10.3
+"Uganda","UG","2008",26.3
+"Zimbabwe","ZW","2008",32.4
+"Afghanistan","AF","2009",48.6
+"Bangladesh","BD","2009",29.6
+"Bhutan","BT","2009",23.1
+"China","CN","2009",9.2
+"Cameroon","CM","2009",31.6
+"India","IN","2009",33.2
+"Kenya","KE","2009",24.9
+"Cambodia","KH","2009",22.3
+"Kuwait","KW","2009",5.6
+"Lebanon","LB","2009",6.3
+"Libya","LY","2009",9.9
+"Madagascar","MG","2009",24.6
+"Namibia","NA","2009",19.9
+"Nigeria","NG","2009",38.3
+"Nepal","NP","2009",28.5
+"Pakistan","PK","2009",50.5
+"Papua New Guinea","PG","2009",26.6
+"Syrian Arab Republic","SY","2009",10.2
+"Uganda","UG","2009",25.7
+"Zimbabwe","ZW","2009",32.3
+"Afghanistan","AF","2010",47.2
+"Bangladesh","BD","2010",28.3
+"Bhutan","BT","2010",22.2
+"China","CN","2010",8.4
+"Cameroon","CM","2010",31.2
+"India","IN","2010",32
+"Kenya","KE","2010",24.5
+"Cambodia","KH","2010",21.2
+"Kuwait","KW","2010",5.5
+"Lebanon","LB","2010",6
+"Libya","LY","2010",9.4
+"Madagascar","MG","2010",24
+"Namibia","NA","2010",20.1
+"Nigeria","NG","2010",38
+"Nepal","NP","2010",27.3
+"Pakistan","PK","2010",49.9
+"Papua New Guinea","PG","2010",26.1
+"Syrian Arab Republic","SY","2010",10.1
+"Uganda","UG","2010",25.3
+"Zimbabwe","ZW","2010",31.7
+"Afghanistan","AF","2011",45.8
+"Bangladesh","BD","2011",27
+"Bhutan","BT","2011",21.4
+"China","CN","2011",7.6
+"Cameroon","CM","2011",30.7
+"India","IN","2011",30.7
+"Kenya","KE","2011",24.1
+"Cambodia","KH","2011",20.1
+"Kuwait","KW","2011",5.4
+"Lebanon","LB","2011",5.7
+"Libya","LY","2011",8.9
+"Madagascar","MG","2011",23.6
+"Namibia","NA","2011",20.3
+"Nigeria","NG","2011",37.7
+"Nepal","NP","2011",26.2
+"Pakistan","PK","2011",49.1
+"Papua New Guinea","PG","2011",25.6
+"Syrian Arab Republic","SY","2011",10.1
+"Uganda","UG","2011",24.8
+"Zimbabwe","ZW","2011",30.9
+"Afghanistan","AF","2012",44.4
+"Bangladesh","BD","2012",25.8
+"Bhutan","BT","2012",20.6
+"China","CN","2012",7
+"Cameroon","CM","2012",30.3
+"India","IN","2012",29.5
+"Kenya","KE","2012",23.7
+"Cambodia","KH","2012",19.1
+"Kuwait","KW","2012",5.2
+"Lebanon","LB","2012",5.5
+"Libya","LY","2012",8.5
+"Madagascar","MG","2012",23.1
+"Namibia","NA","2012",20.4
+"Nigeria","NG","2012",37.6
+"Nepal","NP","2012",25.2
+"Pakistan","PK","2012",48.2
+"Papua New Guinea","PG","2012",25.1
+"Syrian Arab Republic","SY","2012",10.2
+"Uganda","UG","2012",24.2
+"Zimbabwe","ZW","2012",30
+"Afghanistan","AF","2013",43
+"Bangladesh","BD","2013",24.6
+"Bhutan","BT","2013",19.9
+"China","CN","2013",6.4
+"Cameroon","CM","2013",29.8
+"India","IN","2013",28.3
+"Kenya","KE","2013",23.4
+"Cambodia","KH","2013",18.3
+"Kuwait","KW","2013",5.1
+"Lebanon","LB","2013",5.2
+"Libya","LY","2013",8.1
+"Madagascar","MG","2013",22.7
+"Namibia","NA","2013",20.5
+"Nigeria","NG","2013",37.4
+"Nepal","NP","2013",24.2
+"Pakistan","PK","2013",47.2
+"Papua New Guinea","PG","2013",24.7
+"Syrian Arab Republic","SY","2013",10.3
+"Uganda","UG","2013",23.6
+"Zimbabwe","ZW","2013",29.2
+"Afghanistan","AF","2014",41.6
+"Bangladesh","BD","2014",23.5
+"Bhutan","BT","2014",19.2
+"China","CN","2014",5.9
+"Cameroon","CM","2014",29.2
+"India","IN","2014",27.1
+"Kenya","KE","2014",23.1
+"Cambodia","KH","2014",17.5
+"Kuwait","KW","2014",5
+"Lebanon","LB","2014",5
+"Libya","LY","2014",7.8
+"Madagascar","MG","2014",22.2
+"Namibia","NA","2014",20.4
+"Nigeria","NG","2014",37.3
+"Nepal","NP","2014",23.3
+"Pakistan","PK","2014",46.2
+"Papua New Guinea","PG","2014",24.2
+"Syrian Arab Republic","SY","2014",10.4
+"Uganda","UG","2014",23
+"Zimbabwe","ZW","2014",28.5
